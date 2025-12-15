@@ -12,7 +12,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am an Electrical Engineer, loving the programming world, skilled in React, Next.js, WordPress, J.S, and more. <br/>
+I am an Electrical Engineer, loving the programming world, skilled in Python and learning React, Next.js, WordPress, J.S, and more. <br/>
 I have worked on projects to enhance my knowledge,  and continuously strive to improve my skills and contribute to impactful teams.
 
 
