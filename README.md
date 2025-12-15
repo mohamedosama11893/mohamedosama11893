@@ -22,11 +22,11 @@ I have worked on projects to enhance my knowledge,  and continuously strive to i
 
 ## 🔧 My Tech Stack
 
+![HTML](https://img.shields.io/badge/HTML-505050?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-036EEC?logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
